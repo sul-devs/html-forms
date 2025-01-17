@@ -18,14 +18,10 @@ form ul {
   gap: 1rem;
 }
 
+input:not(:placeholder-shown):invalid {
+  border: 2px solid red;
+}
+
 input:valid {
   border: 2px solid green;
-}
-
-input:invalid {
-  border: 2px solid orange;
-}
-
-input:invalid:required {
-  border: 2px solid red;
 }
