@@ -9,4 +9,6 @@ label {
 
 form ul {
   list-style: none;
+  display: flex;
+  flex-direction: column;
 }
