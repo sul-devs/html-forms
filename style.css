@@ -7,6 +7,10 @@ label {
   display: block;
 }
 
+label {
+  margin-bottom: 0.5rem;
+}
+
 form ul {
   list-style: none;
   display: flex;
