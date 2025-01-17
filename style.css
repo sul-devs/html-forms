@@ -17,3 +17,7 @@ form ul {
   flex-direction: column;
   gap: 1rem;
 }
+
+input:valid {
+  border: 2px solid green;
+}
