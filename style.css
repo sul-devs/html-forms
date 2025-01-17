@@ -6,3 +6,7 @@ input,
 label {
   display: block;
 }
+
+form ul {
+  list-style: none;
+}
