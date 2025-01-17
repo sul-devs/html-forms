@@ -1,0 +1,20 @@
+{
+  "name": "html-forms",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sul-devs/html-forms#readme",
+  "bugs": {
+    "url": "https://github.com/sul-devs/html-forms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sul-devs/html-forms.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
